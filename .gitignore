@@ -1,4 +1,4 @@
-*.dart linguist-detectable=true
+*.Objective-C linguist-language=Dart
 # Miscellaneous
 *.class
 *.lock
